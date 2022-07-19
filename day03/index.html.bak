@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+    <head>
+	    <title>HTML Wikipedia</title>
+		<meta charset="UTF-8"/>
+	</head>
+	<body>
+	    <h3>HTML</h3>
+		<p>HTML stands for Hyper Text Markup Language.HTML is the standard markup language for creating Web pages.HTML describes the structure of a Web page.
+		 HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. Inclusion of CSS defines the look and layout of content.
+		 The World Wide Web Consortium (W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.</p>
+	    <h3>History</h3>
+		<h4>Development</h4>
+		<p>The first version of HTML was written by Tim Berners-Lee in 1993.There have been many different versions of HTML.
+		 Berners-Lee considered HTML to be an application of SGML.
+		 It was formally defined as such by the Internet Engineering 
+		 Task Force (IETF) with the mid-1993 publication of the first proposal for an HTML specification, 
+		 the "Hypertext Markup Language (HTML)" Internet Draft by Berners-Lee and Dan Connolly, 
+		 which included an SGML Document type definition to define the grammar.[9][10] The draft expired after six months, but was notable for its acknowledgment of the NCSA Mosaic browser's custom tag for embedding in-line images, reflecting the IETF's philosophy of basing standards on successful prototypes. Similarly, Dave Raggett's competing Internet-Draft, "HTML+ (Hypertext Markup Format)", from late 1993, suggested standardizing already-implemented features like tables and fill-out forms.</p>
+	</body>
+</html>
